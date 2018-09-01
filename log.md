@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 31, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Tuned into Byteconf and checked out some of the speakers - gonna slowly watch the rest over the next week or so.  Continued working my way through Eloquent JavaScript - worked a bit on commenting/understanding the code from Chapter 7.  Wasn't sure if studying from a textbook and doing exercises was considered "coding" for the purposes of this, so I went ahead and threw together the basic structure of a Todo App that I want to put some time into over the next few days.  Might continue to learn the basics of SQL for the rest of tonight, though I may wait until tomorrow for that.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm excited to get started with this, and really demonstrate that I've been putting work in.  I've been at this since May, and while I think I've been really consistent in my work thus far, I want to make sure I'm holding myself accountable.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Links to work:** 
+[Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
+[Todo App](https://github.com/edreeseg/todoPractice)
