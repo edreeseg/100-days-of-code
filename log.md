@@ -9,3 +9,13 @@
 **Links to work:** 
 [Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
 [Todo App](https://github.com/edreeseg/todoPractice)
+
+### Day 2: September 1, 2018
+
+**Today's Progress**: Finished work and exercises on Chapter 8 of Eloquent Javascript.  Planning to go back through Chapter 7 and make sure I fully understand all of the example code.  Continued working on my todo app - made the UI a bit more presentable, and added functionality to dictate priority of a todo (low, medium, high).  Planning on adding ability to sort todos.  Plan for tomorrow is more todo work and SQL.
+
+**Thoughts:** Worked for a while today, and I'm feeling very fortunate that I've got a job that affords me time for coding along with the time I have at home.  Looking forward to starting part time Lambda School program on 9/17/18, and I'm gonna keep going through Eloquent JS in preparation.
+
+**Links to work:** 
+[Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
+[Todo App](https://github.com/edreeseg/todoPractice)
