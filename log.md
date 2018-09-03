@@ -19,3 +19,13 @@
 **Links to work:** 
 [Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
 [Todo App](https://github.com/edreeseg/todoPractice)
+
+### Day 3: September 2, 2018
+
+**Today's Progress**: Today wasn't an easy day for me.  Very tired all day, just struggling a bit with my thoughts and feelings, but I still did what needed to be done.  Worked a lot of the JS-side of things on the todo app.  Worked out a more sustainable way to store the todos, rather than just having them appear on the DOM.  Wasn't able to look at SQL as much as I'd like, but I went over the syntax and language a bit, and hopefully I can work on it some more tomorrow.  Also finished reading Chapter 9 of Eloquent Javascript, and completed the exercises.  I really like using regular expressions, but at the same time, they can be insanely frustrating.
+
+**Thoughts:** Doing well overall, but I hope that my mood improves tomorrow.  Probably did a good 4-6 hours of coding today put together, if not more.  A good amount of that was debugging and trying to figure out why things aren't working, but hey, I guess that's not exactly out of the ordinary!
+
+**Links to work:** 
+[Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
+[Todo App](https://github.com/edreeseg/todoPractice)
