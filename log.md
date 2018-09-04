@@ -29,3 +29,13 @@
 **Links to work:** 
 [Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
 [Todo App](https://github.com/edreeseg/todoPractice)
+
+### Day 4: September 3, 2018
+
+**Today's Progress**: Not the most productive day today, but I suppose that will happen!  I finished reading Chapter 10 of Eloquent Javascript, but haven't gotten around to finishing the exercises.  I'm going to go through the code from Chapter 7 more thoroughly to make sure I fully comprehend everything that's going on with the robot, as that seems to be a big part of a couple of Chapter 10's exercises.  I also worked more on my todo app, but mainly today was spent trying to figure out a problem the darn thing is causing me.  Again, I suppose that will happen as well.  The important thing is, I sat down and I did it.  Whether I made progress or not, I still put the time in.  And tomorrow, I'll do the same thing.
+
+**Thoughts:** Feeling more optimistic than I was feeling yesterday.  In a better mood.  My wife goes back to work tomorrow, and my kids go back to school on Thursday.  I'll be at work while they're away, but I'm hoping everybody has a great first day!  Excited to learn more, but I don't want to get too ahead of myself.  Likely going to move on to the 11th chapter of Eloquent JS tomorrow, which I'm extremely excited about because I know pretty much nothing about async programming.
+
+**Links to work:** 
+[Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
+[Todo App](https://github.com/edreeseg/todoPractice)

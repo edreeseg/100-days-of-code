@@ -12,3 +12,7 @@ Finished work and exercises on Chapter 8 of Eloquent Javascript.  Planning to go
 
 ### R1D3
 Today wasn't an easy day for me.  Very tired all day, just struggling a bit with my thoughts and feelings, but I still did what needed to be done.  Worked a lot of the JS-side of things on the todo app.  Worked out a more sustainable way to store the todos, rather than just having them appear on the DOM.  Wasn't able to look at SQL as much as I'd like, but I went over the syntax and language a bit, and hopefully I can work on it some more tomorrow.  Also finished reading Chapter 9 of Eloquent Javascript, and completed the exercises.  I really like using regular expressions, but at the same time, they can be insanely frustrating.
+
+### R1D4
+
+Not the most productive day today, but I suppose that will happen!  I finished reading Chapter 10 of Eloquent Javascript, but haven't gotten around to finishing the exercises.  I'm going to go through the code from Chapter 7 more thoroughly to make sure I fully comprehend everything that's going on with the robot, as that seems to be a big part of a couple of Chapter 10's exercises.  I also worked more on my todo app, but mainly today was spent trying to figure out a problem the darn thing is causing me.  Again, I suppose that will happen as well.  The important thing is, I sat down and I did it.  Whether I made progress or not, I still put the time in.  And tomorrow, I'll do the same thing.
