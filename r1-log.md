@@ -16,3 +16,7 @@ Today wasn't an easy day for me.  Very tired all day, just struggling a bit with
 ### R1D4
 
 Not the most productive day today, but I suppose that will happen!  I finished reading Chapter 10 of Eloquent Javascript, but haven't gotten around to finishing the exercises.  I'm going to go through the code from Chapter 7 more thoroughly to make sure I fully comprehend everything that's going on with the robot, as that seems to be a big part of a couple of Chapter 10's exercises.  I also worked more on my todo app, but mainly today was spent trying to figure out a problem the darn thing is causing me.  Again, I suppose that will happen as well.  The important thing is, I sat down and I did it.  Whether I made progress or not, I still put the time in.  And tomorrow, I'll do the same thing.
+
+### R1D5
+
+Got some stuff done today that I've been meaning to do.  Spent the morning solving a bit of an issue with a project I've been doing with a friend (something got a bit messed up during a merge).  After that I went ahead and finished commenting all of the code in Chapter 7 of Eloquent Javascript, and got cracking on the exercises (though I still haven't finished them).  Also worked just a bit more on the skeleton of a UI I've got going on with the web game project I referenced a few sentences ago.  Probably going to finish out my night by doing a bit of relaxed reading, and trying to turn in early for work.

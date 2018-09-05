@@ -39,3 +39,13 @@
 **Links to work:** 
 [Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
 [Todo App](https://github.com/edreeseg/todoPractice)
+
+### Day 5: September 4, 2018
+
+**Today's Progress**: Got some stuff done today that I've been meaning to do.  Spent the morning solving a bit of an issue with a project I've been doing with a friend (something got a bit messed up during a merge).  After that I went ahead and finished commenting all of the code in Chapter 7 of Eloquent Javascript, and got cracking on the exercises (though I still haven't finished them).  Also worked just a bit more on the skeleton of a UI I've got going on with the web game project I referenced a few sentences ago.  Probably going to finish out my night by doing a bit of relaxed reading, and trying to turn in early for work.
+
+**Thoughts:** Feeling pretty good today.  Always have that ever-nagging feeling that I could be doing more, but I think ignoring that and focusing on what I AM able to do for right now is going to be way more healthy in the long run.
+
+**Links to work:** 
+[Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
+[Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
