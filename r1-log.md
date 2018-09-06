@@ -20,3 +20,7 @@ Not the most productive day today, but I suppose that will happen!  I finished r
 ### R1D5
 
 Got some stuff done today that I've been meaning to do.  Spent the morning solving a bit of an issue with a project I've been doing with a friend (something got a bit messed up during a merge).  After that I went ahead and finished commenting all of the code in Chapter 7 of Eloquent Javascript, and got cracking on the exercises (though I still haven't finished them).  Also worked just a bit more on the skeleton of a UI I've got going on with the web game project I referenced a few sentences ago.  Probably going to finish out my night by doing a bit of relaxed reading, and trying to turn in early for work.
+
+### R1D6
+
+Updating this the morning after the 5th.  Got some good stuff done yesterday!  Spent a good portion of the morning working on the UI for the web game I've mentioned previously.  Put in the ability to handle character potraits for both the ally and enemy team, as well as dynamically change the menu bar when the user enters information.  The UI also now displays "energy" that is handed out to the players and spent to use skills and attacks.  Next will be working on allowing users to spend attacks/commands to the backend, and update the UI on turn change.

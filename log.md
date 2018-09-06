@@ -49,3 +49,12 @@
 **Links to work:** 
 [Eloquent JS Exercises](https://github.com/edreeseg/EloquentJS)
 [Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
+
+### Day 6: September 5, 2018
+
+**Today's Progress**: Updating this the morning after the 5th.  Got some good stuff done yesterday!  Spent a good portion of the morning working on the UI for the web game I've mentioned previously.  Put in the ability to handle character potraits for both the ally and enemy team, as well as dynamically change the menu bar when the user enters information.  The UI also now displays "energy" that is handed out to the players and spent to use skills and attacks.  Next will be working on allowing users to spend attacks/commands to the backend, and update the UI on turn change.
+
+**Thoughts:** Had a great time working on the features mentioned above, and I'm excited to get cracking more today.  I think I need to look more at the backend.  I really comprehend what's going on with my JS files, but the Java on the backend is something of a mystery, and I think that knowing what it does and being able to predict its behavior is going to be beneficial to me.
+
+**Links to work:** 
+[Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
