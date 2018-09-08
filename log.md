@@ -58,3 +58,13 @@
 
 **Links to work:** 
 [Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
+
+### Day 7: September 7, 2018
+
+**Today's Progress**: Had a good day today!  Spent yesterday studying Chapter 11 of Eloquent Javascript, but didn't end up doing much of my own coding.  Today, I made up for that.  Fixed a bug with my Todo app and added functionality for sorting todos based on priority, name, and date added.  Also set up Cassandra, Maven, and Python on my computer so I could locally communicate with API for the web game.
+
+**Thoughts:** Good day, pretty productive.  This is the first day of my three day weekend.  Looking forward to doing more tomorrow.  Gotta head to sleep now though - feeling pretty tired.
+
+**Links to work:** 
+[Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
+[Todo App](https://github.com/edreeseg/todoPractice)

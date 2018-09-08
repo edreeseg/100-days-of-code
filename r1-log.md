@@ -24,3 +24,7 @@ Got some stuff done today that I've been meaning to do.  Spent the morning solvi
 ### R1D6
 
 Updating this the morning after the 5th.  Got some good stuff done yesterday!  Spent a good portion of the morning working on the UI for the web game I've mentioned previously.  Put in the ability to handle character potraits for both the ally and enemy team, as well as dynamically change the menu bar when the user enters information.  The UI also now displays "energy" that is handed out to the players and spent to use skills and attacks.  Next will be working on allowing users to spend attacks/commands to the backend, and update the UI on turn change.
+
+### R1D7
+
+Had a good day today!  Spent yesterday studying Chapter 11 of Eloquent Javascript, but didn't end up doing much of my own coding.  Today, I made up for that.  Fixed a bug with my Todo app and added functionality for sorting todos based on priority, name, and date added.  Also set up Cassandra, Maven, and Python on my computer so I could locally communicate with API for the web game.
