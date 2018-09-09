@@ -28,3 +28,7 @@ Updating this the morning after the 5th.  Got some good stuff done yesterday!  S
 ### R1D7
 
 Had a good day today!  Spent yesterday studying Chapter 11 of Eloquent Javascript, but didn't end up doing much of my own coding.  Today, I made up for that.  Fixed a bug with my Todo app and added functionality for sorting todos based on priority, name, and date added.  Also set up Cassandra, Maven, and Python on my computer so I could locally communicate with API for the web game.
+
+###  R1D8
+
+Relaxing day today.  Did some reading for a while and then did some Katas on Code Wars, as well as some clashes on codingame.  Doing continual reps of random problems can be really fun, and I feel like it really helps me get out of my own head as far as what I should be working on, and put my coding skills to the test.  Definitely not something I should 100% focus on, but every now and then I feel it helps stretch those muscles.

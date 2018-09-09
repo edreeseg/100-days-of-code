@@ -68,3 +68,13 @@
 **Links to work:** 
 [Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
 [Todo App](https://github.com/edreeseg/todoPractice)
+
+### Day 8: September 8, 2018
+
+**Today's Progress**: Relaxing day today.  Did some reading for a while and then did some Katas on Code Wars, as well as some clashes on codingame.  Doing continual reps of random problems can be really fun, and I feel like it really helps me get out of my own head as far as what I should be working on, and put my coding skills to the test.  Definitely not something I should 100% focus on, but every now and then I feel it helps stretch those muscles.
+
+**Thoughts:** Enjoying my weekend thus far.  Going back to work on Monday, but until then I want to make good use of my time.  About to go watch some TV with my wife.
+
+**Links to work:** 
+[Code Wars](https://www.codewars.com)
+[codingame](https://www.codingame.com)
