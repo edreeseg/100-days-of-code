@@ -32,3 +32,7 @@ Had a good day today!  Spent yesterday studying Chapter 11 of Eloquent Javascrip
 ###  R1D8
 
 Relaxing day today.  Did some reading for a while and then did some Katas on Code Wars, as well as some clashes on codingame.  Doing continual reps of random problems can be really fun, and I feel like it really helps me get out of my own head as far as what I should be working on, and put my coding skills to the test.  Definitely not something I should 100% focus on, but every now and then I feel it helps stretch those muscles.
+
+### R1D9
+
+Enjoying the last day of my weekend.  Did some more code reps on the websites mentioned yesterday, but also worked more on my webgame.  Got functionality to display icons for each characters' individual abilities on initation of a battle between players.  Probably going to be getting back to reading Eloquent JS more tomorrow, as I'll be in work seated at a desk for most of the day.

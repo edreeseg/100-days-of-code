@@ -78,3 +78,13 @@
 **Links to work:** 
 [Code Wars](https://www.codewars.com)
 [codingame](https://www.codingame.com)
+
+### Day 9: September 9, 2018
+
+**Today's Progress**: Enjoying the last day of my weekend.  Did some more code reps on the websites mentioned yesterday, but also worked more on my webgame.  Got functionality to display icons for each characters' individual abilities on initation of a battle between players.  Probably going to be getting back to reading Eloquent JS more tomorrow, as I'll be in work seated at a desk for most of the day.
+
+**Thoughts:** Consistency is the name of the game.  Today was a rough day for me emotionally, but I'm proud I'm getting through it.  And I'm so grateful to my family for always being there for me.
+
+**Links to work:** 
+[Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
+[codingame](https://www.codingame.com)
