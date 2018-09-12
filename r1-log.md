@@ -36,3 +36,7 @@ Relaxing day today.  Did some reading for a while and then did some Katas on Cod
 ### R1D9
 
 Enjoying the last day of my weekend.  Did some more code reps on the websites mentioned yesterday, but also worked more on my webgame.  Got functionality to display icons for each characters' individual abilities on initation of a battle between players.  Probably going to be getting back to reading Eloquent JS more tomorrow, as I'll be in work seated at a desk for most of the day.
+
+### R1D10
+
+More work on understanding things that I haven't understood up until this point.  Went through the entirety of Free Code Camp's basic Node/Express course, and also started working on MongoDB and fiddling around on mLab.  My goal is that I want to have a basic Mongo DB set up tomorrow to be able to store todos from my todo app, and have full communication between front and back end.  We'll have to see if I'm able to get that far between work on my free time tomorrow.

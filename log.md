@@ -88,3 +88,13 @@
 **Links to work:** 
 [Web Game Project](https://github.com/edreeseg/outsiders-arena.github.io)
 [codingame](https://www.codingame.com)
+
+### Day 10: September 11, 2018
+
+**Today's Progress**:  More work on understanding things that I haven't understood up until this point.  Went through the entirety of Free Code Camp's basic Node/Express course, and also started working on MongoDB and fiddling around on mLab.  My goal is that I want to have a basic Mongo DB set up tomorrow to be able to store todos from my todo app, and have full communication between front and back end.  We'll have to see if I'm able to get that far between work on my free time tomorrow.
+
+**Thoughts:**  Super tired today, had a rough day at work, but overall happy with what I was able to learn today.  Looking forward to tomorrow - will probably need more coffee!
+
+**Links to work:** 
+[Free Code Camp](https://github.com/edreeseg/free-code-camp)
+[Todo](https://github.com/edreeseg/todoPractice)
