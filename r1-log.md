@@ -40,3 +40,7 @@ Enjoying the last day of my weekend.  Did some more code reps on the websites me
 ### R1D10
 
 More work on understanding things that I haven't understood up until this point.  Went through the entirety of Free Code Camp's basic Node/Express course, and also started working on MongoDB and fiddling around on mLab.  My goal is that I want to have a basic Mongo DB set up tomorrow to be able to store todos from my todo app, and have full communication between front and back end.  We'll have to see if I'm able to get that far between work on my free time tomorrow.
+
+### R1D11
+
+Super late posting this, been really caught up in wanting to code!  Overestimated my fortitude yesterday when it comes to Mongo/Mongoose - been reading through documentation to ensure I fully understand.  I don't want to just breeze through and copy instructions without knowing what I'm doing.  Also been working more on challenges at CodinGame.  I'm a big fan of the challenges that have you figure out what sort of solution you need based on the expected output.  Really works the brain.

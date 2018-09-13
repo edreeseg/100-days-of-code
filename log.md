@@ -98,3 +98,17 @@
 **Links to work:** 
 [Free Code Camp](https://github.com/edreeseg/free-code-camp)
 [Todo](https://github.com/edreeseg/todoPractice)
+
+### Day 11: September 12, 2018
+
+**Today's Progress**:  Super late posting this, been really caught up in wanting to code!  Overestimated my fortitude yesterday when it comes to Mongo/Mongoose - been reading through documentation to ensure I fully understand.  I don't want to just breeze through and copy instructions without knowing what I'm doing.  Also been working more on challenges at CodinGame.  I'm a big fan of the challenges that have you figure out what sort of solution you need based on the expected output.  Really works the brain.
+
+**Thoughts:**  Coffee maker was broken - going to have to give myself more time tomorrow.  Start Lambda School this upcoming Monday - kinda nervous, but at the same time excited to learn more.  Trying to reassure that voice in my head that I'm ready for the task.
+
+**Links to work:** 
+[Free Code Camp](https://github.com/edreeseg/free-code-camp)
+[codingame](https://www.codingame.com)
+
+
+
+
