@@ -44,3 +44,8 @@ More work on understanding things that I haven't understood up until this point.
 ### R1D11
 
 Super late posting this, been really caught up in wanting to code!  Overestimated my fortitude yesterday when it comes to Mongo/Mongoose - been reading through documentation to ensure I fully understand.  I don't want to just breeze through and copy instructions without knowing what I'm doing.  Also been working more on challenges at CodinGame.  I'm a big fan of the challenges that have you figure out what sort of solution you need based on the expected output.  Really works the brain.
+
+### R1D12
+
+Spent a lot of the day doing coding exercises against others on CodinGame.  I've been a fan of that because it's such a change of pace from having my nose in a book, and it's fun to think of clever ways to cut down on code and get it done fast.  Of course, I've gotta recognize when those techniques are in actuality bad practice that I shouldn't make use of.  Also read some of "Think Like a Programmer", though I may have to put that one on the backburner once Lambda Starts.
+

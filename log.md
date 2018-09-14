@@ -109,6 +109,16 @@
 [Free Code Camp](https://github.com/edreeseg/free-code-camp)
 [codingame](https://www.codingame.com)
 
+### Day 12: September 12, 2018
+
+**Today's Progress**: Spent a lot of the day doing coding exercises against others on CodinGame.  I've been a fan of that because it's such a change of pace from having my nose in a book, and it's fun to think of clever ways to cut down on code and get it done fast.  Of course, I've gotta recognize when those techniques are in actuality bad practice that I shouldn't make use of.  Also read some of "Think Like a Programmer", though I may have to put that one on the backburner once Lambda Starts.
+
+**Thoughts:**  Got my coffee.  Feeling optimistic.  My wife is sick though, which means that in short order the girls will be sick, and then I'll likely be next.  Pray for me.
+
+**Links to work:** 
+[Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
+[codingame](https://www.codingame.com)
+
 
 
 
