@@ -49,3 +49,6 @@ Super late posting this, been really caught up in wanting to code!  Overestimate
 
 Spent a lot of the day doing coding exercises against others on CodinGame.  I've been a fan of that because it's such a change of pace from having my nose in a book, and it's fun to think of clever ways to cut down on code and get it done fast.  Of course, I've gotta recognize when those techniques are in actuality bad practice that I shouldn't make use of.  Also read some of "Think Like a Programmer", though I may have to put that one on the backburner once Lambda Starts.
 
+### R1D13
+
+Got invited to the repl.it for my Lambda School Javascript course today.  That reminded me that I have not yet finished doing the "auto-graded lessons" Javascript course...thing...that I joined on repl.it a few months back.  So, I sat down and spent my free time at work (probably about 2-3 hours) going through those lessons and finishing them all.  Felt good to finally get that done, though a couple couldn't be submitted because I think there might be a bug in their tests.  Other than that, I read a bit more, and I'm overall just very nervous about getting started with this part time program.  More clash on CodinGame, as well.

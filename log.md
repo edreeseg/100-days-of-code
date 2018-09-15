@@ -109,7 +109,7 @@
 [Free Code Camp](https://github.com/edreeseg/free-code-camp)
 [codingame](https://www.codingame.com)
 
-### Day 12: September 12, 2018
+### Day 12: September 13, 2018
 
 **Today's Progress**: Spent a lot of the day doing coding exercises against others on CodinGame.  I've been a fan of that because it's such a change of pace from having my nose in a book, and it's fun to think of clever ways to cut down on code and get it done fast.  Of course, I've gotta recognize when those techniques are in actuality bad practice that I shouldn't make use of.  Also read some of "Think Like a Programmer", though I may have to put that one on the backburner once Lambda Starts.
 
@@ -119,6 +119,15 @@
 [Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
 [codingame](https://www.codingame.com)
 
+### Day 13: September 14, 2018
 
+**Today's Progress**: Got invited to the repl.it for my Lambda School Javascript course today.  That reminded me that I have not yet finished doing the "auto-graded lessons" Javascript course...thing...that I joined on repl.it a few months back.  So, I sat down and spent my free time at work (probably about 2-3 hours) going through those lessons and finishing them all.  Felt good to finally get that done, though a couple couldn't be submitted because I think there might be a bug in their tests.  Other than that, I read a bit more, and I'm overall just very nervous about getting started with this part time program.  More clash on CodinGame, as well.
+
+**Thoughts:**  Friday, time for my weekend.  I'll probably spend all weekend worrying about getting started with this on Monday.  Likely will spend a lot of the weekend reading more Eloquent JS to prepare, though I did promise my daughters we would finish rolling D&D characters.  Might try to spend a good portion of the time with them, before this program starts and all of my free time goes to that.
+
+**Links to work:** 
+[Repl.it](https://repl.it/student/classrooms/20690)
+[Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
+[codingame](https://www.codingame.com)
 
 
