@@ -130,4 +130,13 @@
 [Think Like a Programmer](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
 [codingame](https://www.codingame.com)
 
+### Day 14: September 16, 2018
+
+**Today's Progress**: Took yesterday off to spend more time with my family. Today I primarily worked on code challenges and continuing to reinforce my understanding of Mongo/Mongoose.  I start my program tomorrow, and I'm pretty excited to get going with it.  A bit apprehensive too, but I'll have to put that to the side, trust the process, and just keep up with my reps. Looking forward to showing exactly what I'm capable of.
+
+**Thoughts:**  Feeling good after prioritizing my family this weekend. Decided that, after months of them asking, I would run a bit of a casual, laid back D&D campaign for my daughters.  Their mother is also getting involved - the party consists of two Tiefling sisters, a Sorcerer and a Wizard, as well as a Wood Elf Druid.  Campign will probably start sometime next week - though they've been informed school's always gotta come first.  It'll be nice to have something to take my mind off coding when I need a bit of a break.
+
+**Links to work:** 
+[Free Code Camp](https://github.com/edreeseg/free-code-camp)
+[codingame](https://www.codingame.com)
 
