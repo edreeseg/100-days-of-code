@@ -140,3 +140,18 @@
 [Free Code Camp](https://github.com/edreeseg/free-code-camp)
 [codingame](https://www.codingame.com)
 
+### Day 15: September 17, 2018
+
+**Today's Progress**: First day of Lambda School.  Some basic introductions, getting to know our PM groups within our cohorts as well as our PM. Went over some basics Javascript, namely for loops and functions, basic concepts like that.  I also went over the User Interface I material, which included reviewing semantic HTML and basic CSS styling.  One of my favorite bits was a project that had us take a premade webpage and change it as much as possible with only CSS, which I feel is a great way to demonstrate its potential.  Also did coding exercises on CodinGame.
+
+**Thoughts:**  Off to a good start!  Looking forward to diving into deeper concepts, but I should probably be careful what I wish for and use the time where I'm familiar with the concepts we're reviewing to keep expanding my knowledge! 
+
+**Links to work:** 
+[Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+[codingame](https://www.codingame.com)
+
+
+
+
+
+

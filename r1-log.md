@@ -57,6 +57,7 @@ Got invited to the repl.it for my Lambda School Javascript course today.  That r
 
 Took yesterday off to spend more time with my family. Today I primarily worked on code challenges and continuing to reinforce my understanding of Mongo/Mongoose.  I start my program tomorrow, and I'm pretty excited to get going with it.  A bit apprehensive too, but I'll have to put that to the side, trust the process, and just keep up with my reps. Looking forward to showing exactly what I'm capable of.
 
+### R1D15
 
-
+First day of Lambda School.  Some basic introductions, getting to know our PM groups within our cohorts as well as our PM. Went over some basics Javascript, namely for loops and functions, basic concepts like that.  I also went over the User Interface I material, which included reviewing semantic HTML and basic CSS styling.  One of my favorite bits was a project that had us take a premade webpage and change it as much as possible with only CSS, which I feel is a great way to demonstrate its potential.  Also did coding exercises on CodinGame.
 
