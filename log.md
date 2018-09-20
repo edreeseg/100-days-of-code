@@ -150,6 +150,15 @@
 [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 [codingame](https://www.codingame.com)
 
+### Day 16: September 19, 2018
+
+**Today's Progress**: Technically did code for the past two days, but I was too tired to post my update for the 18th and so I'm going to consider that a day off, as well. Continued work with Lambda School - continued tinkering with my project for User Interace I, trying to make sure I take every assignment seriously and give it my all.  Mainly just HTML and CSS, but I am still doing JS exercises on the side to stretch those muscles.
+
+**Thoughts:**  Was pretty sick earlier today, but I'm feeling better now.  My wife's birthday is tomorrow, and we did some of the celebrating today.  Feeling optimistic about my progress and the program.
+
+**Links to work:** 
+[User Interface I Project](https://edreeseg.github.io/index.html)
+[codingame](https://www.codingame.com)
 
 
 

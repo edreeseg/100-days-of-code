@@ -61,3 +61,8 @@ Took yesterday off to spend more time with my family. Today I primarily worked o
 
 First day of Lambda School.  Some basic introductions, getting to know our PM groups within our cohorts as well as our PM. Went over some basics Javascript, namely for loops and functions, basic concepts like that.  I also went over the User Interface I material, which included reviewing semantic HTML and basic CSS styling.  One of my favorite bits was a project that had us take a premade webpage and change it as much as possible with only CSS, which I feel is a great way to demonstrate its potential.  Also did coding exercises on CodinGame.
 
+### R1D16
+
+Technically did code for the past two days, but I was too tired to post my update for the 18th and so I'm going to consider that a day off, as well. Continued work with Lambda School - continued tinkering with my project for User Interace I, trying to make sure I take every assignment seriously and give it my all.  Mainly just HTML and CSS, but I am still doing JS exercises on the side to stretch those muscles.
+
+
