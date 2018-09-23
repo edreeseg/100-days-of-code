@@ -65,4 +65,18 @@ First day of Lambda School.  Some basic introductions, getting to know our PM gr
 
 Technically did code for the past two days, but I was too tired to post my update for the 18th and so I'm going to consider that a day off, as well. Continued work with Lambda School - continued tinkering with my project for User Interace I, trying to make sure I take every assignment seriously and give it my all.  Mainly just HTML and CSS, but I am still doing JS exercises on the side to stretch those muscles.
 
+### R1D17
 
+Had Lambda class on formatting with inline-block/box model/basic positioning.  Although I was familiar with each of these, going through it in-detail helped me make sure I really understood things.  I'm going to hit the hay early and work on it a bit more tomorrow.  Did some more coding exercises, just to keep my Javascript as practiced as I can.
+
+### R1D18
+
+Got started with trying to design the site for our UI1 project, and it was actually more difficult getting going than I expected!  I'd become so accustomed to using Flexbox and Grid that formatting with inline-block, positioning, and floats was actually a bit foreign to me.  I got the hang of it quick though, and was able to get the basic skeleton done while in work.  Really enjoying working off of a design template - although I like imagining things and bringing them to life, it's actually super fun taking someone else's image of a website and figuring out how to make that a reality.
+
+### R1D19
+
+Had class again today - first Saturday class!  Went over how our website has been going.  I'm pretty much all finished with the basics at this point, but I've been adding on more stuff to meet the stretch goals.  Also going to be trying to do some responsive design for it - never built a site designed to run on desktop, phone, and tablet, so I feel like that's going to be super important!
+
+### R1D20
+
+No class today, but it's my first completely off day in a week, so that's nice.  Worked on the responsive design for the site.  Got the basic skeleton of the phone design all coded up, and at this point it's going to be about trying to make things look nicer with the color palette - looks a bit bland with the black and white right now.  Going to finish up the night trying to get the tablet design down, as well.

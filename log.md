@@ -160,7 +160,42 @@
 [User Interface I Project](https://edreeseg.github.io/index.html)
 [codingame](https://www.codingame.com)
 
+### Day 17: September 20, 2018
 
+**Today's Progress**: Had Lambda class on formatting with inline-block/box model/basic positioning.  Although I was familiar with each of these, going through it in-detail helped me make sure I really understood things.  I'm going to hit the hay early and work on it a bit more tomorrow.  Did some more coding exercises, just to keep my Javascript as practiced as I can.
 
+**Thoughts:**  Rough day - work has been busy lately, but I'm getting through alright with the help of my family.  It was my beautiful wife's birthday today.  We did some more celebrating, but since we both worked we didn't have as much time as we'd like.
 
+**Links to work:** 
+[codingame](https://www.codingame.com)
+[Lambda School](https://lambdaschool.com/)
 
+### Day 18: September 21, 2018
+
+**Today's Progress**: Got started with trying to design the site for our UI1 project, and it was actually more difficult getting going than I expected!  I'd become so accustomed to using Flexbox and Grid that formatting with inline-block, positioning, and floats was actually a bit foreign to me.  I got the hang of it quick though, and was able to get the basic skeleton done while in work.  Really enjoying working off of a design template - although I like imagining things and bringing them to life, it's actually super fun taking someone else's image of a website and figuring out how to make that a reality.
+
+**Thoughts:**  Really enjoyed all of my coding time today, and although it seems like I'm just doing the basics, I feel like it's only making my foundation stronger and stronger.
+
+**Links to work:** 
+[User Interface Project - Great Ideas Website](https://github.com/edreeseg/User-Interface)
+[Lambda School](https://lambdaschool.com/)
+
+### Day 19: September 22, 2018
+
+**Today's Progress**: Had class again today - first Saturday class!  Went over how our website has been going.  I'm pretty much all finished with the basics at this point, but I've been adding on more stuff to meet the stretch goals.  Also going to be trying to do some responsive design for it - never built a site designed to run on desktop, phone, and tablet, so I feel like that's going to be super important!
+
+**Thoughts:**  Worked in my small group as well as with a random partner for a bit of "paired programming" today.  Didn't get to do all that much, but I feel like talking things over and explaining concepts to my peers is helping solidify what I do understand.
+
+**Links to work:** 
+[User Interface Project - Great Ideas Website](https://github.com/edreeseg/User-Interface)
+[Lambda School](https://lambdaschool.com/)
+
+### Day 20: September 23, 2018
+
+**Today's Progress**: No class today, but it's my first completely off day in a week, so that's nice.  Worked on the responsive design for the site.  Got the basic skeleton of the phone design all coded up, and at this point it's going to be about trying to make things look nicer with the color palette - looks a bit bland with the black and white right now.  Going to finish up the night trying to get the tablet design down, as well.
+
+**Thoughts:**  Feeling only more confident as time goes on.  I anticipate things getting much more difficult when we get into Javascript, especially React and Redux, but I'm confident I'm up to the task.  I need to succeed for both myself and my family.
+
+**Links to work:** 
+[User Interface Project - Great Ideas Website](https://github.com/edreeseg/User-Interface)
+[Lambda School](https://lambdaschool.com/)
